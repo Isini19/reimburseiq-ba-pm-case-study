@@ -18,4 +18,4 @@
 - Legal or tax compliance review of expense policy
 - Real employee or financial data (all data used is fictional/simulated)
 
-Defining scope boundaries explicitly is a core Business Analysis practice — it prevents scope creep and sets clear expectations for what the project will and will not deliver.
+
