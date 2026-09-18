@@ -20,4 +20,4 @@
 | Employee | Low | High | Keep Informed |
 | HR/Admin | Medium | Low | Keep Satisfied |
 
-The Power/Interest grid is a standard stakeholder management tool used to determine how much engagement and communication each stakeholder group requires throughout the project.
+
